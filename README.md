@@ -46,11 +46,10 @@
 
 ---
 
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l1a404/l1a404/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/l1a404/l1a404/output/github-contribution-grid-snake.svg">
-</picture>
+### 👨‍💻 Hacker Vibes
+<p align="center">
+  <img src="https://i.ibb.co/GP5w4k6/hacker-terminal.gif" alt="hacker vibe" width="500"/>
+</p>
 
 ---
 
